@@ -297,10 +297,12 @@ section{
 .home .content h3{
    color: var(--black);
    font-size: 3rem; 
+   opacity: 100%;
 }
 
 .home .content h3 span{
    color: var(--green);
+   opacity: 100%;
 }
 
 .home .content p{
@@ -308,6 +310,7 @@ section{
     font-size: 2rem;
     padding: 1rem;
     line-height: 1.8;
+    opacity: 100%;
 }
 
 .features{
