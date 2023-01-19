@@ -291,6 +291,7 @@ section{
     width: 60rem;
     background: #fff;
     padding: 2rem;
+    opacity: 60%;
 }
 
 .home .content h3{
